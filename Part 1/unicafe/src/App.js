@@ -28,7 +28,7 @@ const Statistics =(props)=>{
     <StatisticLine text="neutral" stat={props.neutral}/>
     <StatisticLine text="bad" stat={props.bad}/>
     <StatisticLine text="all" stat={props.bad+props.good+props.neutral}/>
-    <StatisticLine text="average" stat={props.good-props.bad}/>
+    <StatisticLine text="average" stat={(props.good-props.bad)/(props.good+props.bad+props.neutral)}/>
     <StatisticLine text="positive" stat={props.good/(props.bad+props.good+props.neutral)*100} text1=" %"/>
     </table>
   )
