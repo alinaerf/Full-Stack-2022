@@ -1,1 +1,16 @@
 # Projects created for Deep Dive Into Modern Web Development Course
+### Part 1: 
+- Anecdote page with upvoting functionality
+- Course Information page with several components
+- Simple feedback page with voting statistics (good, bad, neutral, average, positive percentage)
+
+### Part 2:
+- Data about countries that match the search (API)
+- Improved Course Information page
+- Phonebook page with functionality of adding numbers and filtering by name
+
+### Part 3:
+- Backend of the phonebook page (using Node.js, Express, MongoDB)
+
+### Part 4:
+- Backend of the blog list application with functionality of log in, adding a new blog, liking a blog. (Node.js, Express, MongoDB)
