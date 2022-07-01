@@ -1,0 +1,27 @@
+.dropdown-menu{
+    font-size: 20px;
+}
+.search-bar{
+    display: flex;
+}
+.search-input{
+    width: 400px;
+}
+.search-button{
+    background-image:url(../assets/icons/search.svg) ;
+    background-size: 22px 22px;
+    height: 22px;
+    width:22px;
+    border-style: hidden;
+    margin:5px;
+    cursor:pointer;
+}
+.cancel-button{
+    background-image:url(../assets/icons/x-lg.svg) ;
+    background-size: 22px 22px;
+    height: 22px;
+    width:22px;
+    border-style: hidden;
+    margin:5px;
+    cursor:pointer;
+}
