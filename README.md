@@ -1,4 +1,4 @@
-# Projects created for Deep Dive Into Modern Web Development Course
+# Deep Dive Into Modern Web Development Course Projects
 ### Part 1: 
 - Anecdote page with upvoting functionality
 - Course Information page with several components
