@@ -13,4 +13,4 @@
 - Backend of the phonebook page (Node.JS, Express, MongoDB, Regex) [Deployed to Heroku: https://hidden-garden-02403.herokuapp.com/]
 
 ### Part 4:
-- Backend of the blog list application with functionality of log in, adding a new blog, liking a blog. (Node.js, Express, MongoDB)
+- Backend of the blog list application with functionality of log in, adding a new blog, liking a blog. (Node.js, Express, MongoDB)  [Deployed to Heroku: https://secret-castle-28604.herokuapp.com/]
