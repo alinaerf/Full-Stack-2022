@@ -14,3 +14,6 @@
 
 ### Part 4:
 - Backend of the blog list application with functionality of log in, adding a new blog, liking a blog. (Node.js, Express, MongoDB)  [Deployed to Heroku: https://secret-castle-28604.herokuapp.com/]
+
+### Part 5:
+- Frontend of the blog list application with functionality of log in, adding a new blog, liking a blog. (React.js)  [Deployed to Heroku: https://secret-castle-28604.herokuapp.com/]
