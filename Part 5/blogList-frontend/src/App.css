@@ -1,0 +1,50 @@
+body{
+    padding:5px;
+    padding-left:0px;
+    background-color: whitesmoke;
+    color:black;
+    font-size:25px;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+h1{
+    text-align: center;
+}
+.dark-mode{
+    background-color: #303030;
+    color: whitesmoke;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.sidebar{
+    position: absolute;
+    height: 100%;
+    text-align: center;
+}
+.sidebar-open-button{
+    background-image: url(../src/assets/icons/open.svg);
+    background-size: 22px 22px;
+    height: 22px;
+    width:22px;
+    border-style: hidden;
+    margin:5px;
+    cursor:pointer;
+}
+.sidebar-close-button{
+    background-image:url(../src/assets/icons/x-lg.svg) ;
+    background-size: 22px 22px;
+    height: 22px;
+    width:22px;
+    border-style: hidden;
+    margin:5px;
+    cursor:pointer;
+    margin-left: 80%;
+}
+
+
+  

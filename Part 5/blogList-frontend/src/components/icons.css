@@ -1,0 +1,32 @@
+.openInfo{
+    background-image: url(../assets/icons/arrow-right-square.svg);
+    background-size: 16px 16px;
+    height:20px;
+    width:20px;
+    border-radius: 4px;
+    cursor:pointer;
+}
+.closeInfo{
+    background-image:url(../assets/icons/arrow-left-square.svg) ;
+    background-size: 16px 16px;
+    height:20px;
+    width:20px;
+    border-radius: 4px;
+    cursor:pointer;
+}
+.liked{
+    background-image:url(../assets/icons/heart-fill.svg) ;
+    background-size: 18px 18px;
+    height: 18px;
+    width:18px;
+    border-style: hidden;
+    cursor:pointer;
+}
+.notLiked{
+    background-image:url(../assets/icons/heart.svg) ;
+    background-size: 18px 18px;
+    height: 18px;
+    width:18px;
+    border-style: hidden;
+    cursor:pointer;
+}
