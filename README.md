@@ -17,3 +17,7 @@
 
 ### Part 5:
 - Frontend of the blog list application with functionality of log in, adding a new blog, liking a blog. (React.js)  [Deployed to Heroku: https://secret-castle-28604.herokuapp.com/]
+
+### Part 6:
+- Revisited feedback page using Redux for state management.
+- Revisited anecdote page using Redux for state management and communication with local database.
